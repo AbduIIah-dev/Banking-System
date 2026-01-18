@@ -14,7 +14,7 @@ Manage accounts, check balances, deposit, withdraw, transfer funds, change PINs,
 
 ## Installation
 1. Clone this repository:
-   git clone https://github.com/Abdullah-dev/Simple-Banking-System.git
+   git clone https://github.com/AbduIIah-dev/Banking-System.git
 2. Navigate to the project directory:
    cd Simple-Banking-System
 3. Install the required packages:
